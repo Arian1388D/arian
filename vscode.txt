@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>وب‌سایت من در گیت‌هاب</title>
+    <style>
+        body {
+            font-family: Tahoma, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background: #f0f8ff;
+            color: #333;
+        }
+        h1 {
+            color: #007acc;
+        }
+    </style>
+</head>
+<body>
+    <h1>سلام! به وب‌سایت من در GitHub Pages خوش آمدید.</h1>
+    <p>این صفحه به وسیله GitHub Pages منتشر شده است.</p>
+</body>
+</html>
